@@ -14,7 +14,7 @@ The management at Pens & Printers would like you to look at the data and present
 
 ### Data 
 
-[Source Data](https://github.com/nrabbi/Office-Supplies-Data-Analysis/blob/main/dataset/office_supplies.csv) (Original Data provided for the analysis)
+[Source Data](https://github.com/nrabbi/Office-Supplies-Data-Analysis/tree/main/dataset) (Original Data provided for the analysis)
 
 ### Analysis
 
@@ -24,4 +24,4 @@ The management at Pens & Printers would like you to look at the data and present
 
 ### Report
 
-[Presentation Slides](https://docs.google.com/presentation/d/1g59ZauKnWnaq8zprjNvG95_2XIlOJlLux9epBPtHtV8/edit?usp=sharing) (Final Report)
+[Presentation Slides](https://docs.google.com/presentation/d/1g59ZauKnWnaq8zprjNvG95_2XIlOJlLux9epBPtHtV8/edit?usp=sharing)
