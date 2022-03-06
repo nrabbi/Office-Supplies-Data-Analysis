@@ -14,14 +14,14 @@ The management at Pens & Printers would like you to look at the data and present
 
 ### Data 
 
-[Source Data](www.google.com) (Original Data provided for the analysis)
+[Source Data](https://github.com/nrabbi/Office-Supplies-Data-Analysis/blob/main/dataset/office_supplies.csv) (Original Data provided for the analysis)
 
 ### Analysis
 
-[SQL](www.google.com) (Used to extract relevant data from the main dataset)
+[SQL](https://github.com/nrabbi/Office-Supplies-Data-Analysis/blob/main/scripts/extract_relevant_data.sql) (Used to extract relevant data from the main dataset)
 
-[Tableau Public](www.google.com) (Used to perform the analysis)
+[Tableau Public](https://public.tableau.com/views/OfficeSuppliesDataAnalysis_16465582967050/low_profit?:language=en-US&:display_count=n&:origin=viz_share_link) (Used to perform the analysis)
 
 ### Report
 
-[Presentation Slides](www.google.com) (Final Report)
+[Presentation Slides](https://docs.google.com/presentation/d/1g59ZauKnWnaq8zprjNvG95_2XIlOJlLux9epBPtHtV8/edit?usp=sharing) (Final Report)
